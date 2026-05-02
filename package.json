@@ -1,0 +1,31 @@
+{
+  "name": "uts-pplos-a-2410511018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeuSann/uts-pplos-a-2410511018.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/seeuSann/uts-pplos-a-2410511018/issues"
+  },
+  "homepage": "https://github.com/seeuSann/uts-pplos-a-2410511018#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.4.1",
+    "http-proxy-middleware": "^3.0.5",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
